@@ -7,4 +7,4 @@ function insertionSort(myArray) {
 }
 
 
-// module.exports = insertionSort;
+module.exports = insertionSort;
